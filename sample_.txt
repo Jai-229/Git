@@ -1,0 +1,34 @@
+hello
+Git commands:
+======
+-cd foldername--> Change directory
+-ls--> List of files
+-ls--> to see hidden files
+-touch filename-->to create afile
+-nano filename-->It will create file and open nano editor
+-ctrl+x-->to quit the file
+Click on enter filename to write
+-Editing the file using vim editor
+-vim filename-->filename open with vim editor ctrl+c
+-At the bottom of the file type to save the code
+-:q to exit the file
+uses of Git&Github:
+=============
+-To complete the Global Certifications like Google,Udacity,Courseera
+-To track the files in a project
+Git structure:
+==============
+-untracked area
+  +git status-->to know status of file
+  +git init-->to initialize git reposition
+  +ls -a-->to see hidden git reposition
+  +git add filename-->to add file to get git status
+  +git rm--cached finename--> remove file from stagging area to untracked area
+  +git status
+  +rm filename -->to remove files
+  -git commit -m "basic data"
+  -config user name and email
+  -if git contains previous user name and check username with git config--globaluser.name ,similarity
+-stagging area
+-commit area
+
